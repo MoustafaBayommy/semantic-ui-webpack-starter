@@ -2,6 +2,10 @@
 
 > Webpack-based Semantic UI seed project.
 
+## Notes
+
+Uses Webpack version 3.
+
 ## Theme configuration and customization
 
 http://learnsemantic.com/developing/customizing.html
